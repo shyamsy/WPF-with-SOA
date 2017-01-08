@@ -1,1 +1,1 @@
-"# WPF-with-SOA" 
+This is CA Client Coordination system, developed in WPF, WCF and C#. It follows SOA(Service Oriented) architecture.
