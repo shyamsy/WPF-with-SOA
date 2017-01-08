@@ -1,0 +1,593 @@
+﻿Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Creating EventLog source CAClientWindowService in log Application...
+Rolling back assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Restoring event log to previous state for source CAClientWindowService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Creating EventLog source CAClientWindowService in log Application...
+Rolling back assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Restoring event log to previous state for source CAClientWindowService.
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Creating EventLog source CAClientWindowService in log Application...
+Rolling back assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Restoring event log to previous state for source CAClientWindowService.
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Creating EventLog source CAClientWindowService in log Application...
+Rolling back assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Restoring event log to previous state for source CAClientWindowService.
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Uninstalling assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\caClient.WindowServices.exe
+Removing EventLog source CAClientWindowService.
+Service CAClientWindowService is being removed from the system...
+Service CAClientWindowService was successfully removed from the system.
+Installing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe
+Installing service CAClientWindowService...
+Service CAClientWindowService has been successfully installed.
+Creating EventLog source CAClientWindowService in log Application...
+Committing assembly 'F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.InstallLog
+   assemblypath = F:\CaClientManagement\CA.Client.Management\CaClient.WindowServices\bin\Debug\CaClient.WindowServices.exe

@@ -1,0 +1,44 @@
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\bin\Debug\CAClient.Frontend.exe.config
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\bin\Debug\CAClient.Frontend.exe
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\bin\Debug\CAClient.Frontend.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Audit\NewAuditView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AuditAccountsView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\TurnoverView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Audit\NewAuditView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Client\AddClientView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Client\ClientInfoView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AuditAccountsView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\TurnoverView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\MainWindow.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\App.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend_MarkupCompile.cache
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend_MarkupCompile.lref
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Client\AddClientView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Client\ClientInfoView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\MainWindow.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.g.resources
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.Properties.Resources.resources
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.csproj.GenerateResource.Cache
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.exe
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Audit\AuditDetailsView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Audit\AuditDetailsView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.csprojResolveAssemblyReference.cache
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AddCAView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AddCAView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\SplashWindow.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\SplashWindow.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Resources\Skins\Brushes.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Resources\Skins\Styles.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\App.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Resources\Skins\Fonts.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AddDesignationView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\AddDesignationView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\CaDetailsView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Configurations\CaDetailsView.g.cs
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Login\CaClientLoginView.baml
+F:\CaClientManagement\CA.Client.Management\CAClient.Frontend\obj\Debug\Login\CaClientLoginView.g.cs
+G:\Projects\CaClientManagement V2.0\CA.Client.Management\CAClient.Frontend\bin\Debug\CAClient.Frontend.exe.config
+G:\Projects\CaClientManagement V2.0\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.exe
+G:\Projects\CaClientManagement V2.0\CA.Client.Management\CAClient.Frontend\obj\Debug\CAClient.Frontend.pdb

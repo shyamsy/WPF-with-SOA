@@ -1,0 +1,76 @@
+﻿<Window x:Class="CAClient.Frontend.Client.AddClientView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:view="clr-namespace:CAClient.Frontend.Client"
+        Title="{Binding Title}"  Height="500" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.DataContext>
+        <view:AddClientViewModel/>
+    </Window.DataContext>
+    <Window.Resources>
+        <Style TargetType="TextBox" BasedOn="{StaticResource DefaultTextBoxStyle}" />
+        <Style TargetType="TextBlock" BasedOn="{StaticResource ControlLabelStyle}" />
+        <Style TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+    </Window.Resources>
+    <Border Style="{StaticResource ContentBorderStyle}">
+        <StackPanel>
+            <StackPanel>
+                <GroupBox Header="{Binding Title}" Margin="10 10 0 10">
+                    <StackPanel>
+                        <Border Background="Navy" Height="30" Margin="0 10 0 0">
+                            <TextBlock Foreground="White"  FontSize="15" Margin="10 2 0 0">Client Details</TextBlock>
+                        </Border>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="First Name" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding ClientInfoModel.FirstName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Middle Name" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.MiddleName}" Width="200"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Last Name" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.LastName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Phone No." Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.PhoneNumber}" Width="200"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Address" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.Address}" Width="200"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="City" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.City}" Width="200"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Country" Width="100"/>
+                            <ComboBox Name="ComboBox1" Width="200" Height="30"  VerticalAlignment="Top" HorizontalAlignment="Left" ItemsSource="{Binding CountryDetails}">
+                                <ComboBox.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal">
+                                            <Rectangle Fill="{Binding CountryId}" />
+                                            <TextBlock Text="{Binding Name}" />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ComboBox.ItemTemplate>
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="State" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.State}" Width="200"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Pin Code" Width="100"/>
+                            <TextBox Text="{Binding ClientInfoModel.PinCode}" Width="200"/>
+                        </StackPanel>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+            <StackPanel Margin="0 0 20 0">
+                <Button Content="Save" Height="30" Width="60" HorizontalAlignment="Right" Command="{Binding AddClientDataCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </Border>
+</Window>
+

@@ -1,0 +1,111 @@
+﻿<Window x:Class="CAClient.Frontend.Configurations.AddCAView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add New Charter Accountant Details" SizeToContent="Height" Width="800"
+        WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="TextBox" BasedOn="{StaticResource DefaultTextBoxStyle}" />
+        <Style TargetType="TextBlock" BasedOn="{StaticResource ControlLabelStyle}" />
+        <Style TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+    </Window.Resources>
+    <Border Style="{StaticResource ContentBorderStyle}">
+        <GroupBox Header="Add New CA Details" Margin="10 10 10 10">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                    <StackPanel>
+                        <Border Background="Navy" Height="30">
+                            <TextBlock Foreground="White"  FontSize="15" Margin="10 2 0 0">CA Personal Details</TextBlock>
+                        </Border>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="CA Name" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Father's Name" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="PAN" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Gender" TextAlignment="Left" Width="100" />
+                            <ComboBox Width="200" Height="26">
+                                <ComboBoxItem Tag="Male" IsSelected="True">Male</ComboBoxItem>
+                                <ComboBoxItem Tag="Female">Female</ComboBoxItem>
+                            </ComboBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Date of Birth" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Status" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Address" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="City" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="State" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Country" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="PIN" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Mobile" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Phone" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Email" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Margin="100 0 0 0">
+                        <Border Background="Navy" Height="30">
+                            <TextBlock Foreground="White" FontSize="15" Margin="10 2 0 0">CA Designation Details</TextBlock>
+                        </Border>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Designation" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Department" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Manager" TextAlignment="Left" Width="100" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Is Power User?" TextAlignment="Left" Width="100" />
+                            <CheckBox IsChecked="True"></CheckBox>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Active" TextAlignment="Left" Width="100" />
+                            <CheckBox IsChecked="True"></CheckBox>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="0 0 20 0">
+                    <Button Content="Save" Height="30" Width="60" HorizontalAlignment="Right"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+    </Border>
+</Window>

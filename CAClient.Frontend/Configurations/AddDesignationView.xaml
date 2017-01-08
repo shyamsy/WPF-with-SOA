@@ -1,0 +1,34 @@
+﻿<Window x:Class="CAClient.Frontend.Configurations.AddDesignationView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Designation" SizeToContent="Height" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="TextBox" BasedOn="{StaticResource DefaultTextBoxStyle}" />
+        <Style TargetType="TextBlock" BasedOn="{StaticResource ControlLabelStyle}" />
+        <Style TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+    </Window.Resources>
+    <Border Style="{StaticResource ContentBorderStyle}">
+        <GroupBox Header="Add New Desination Details" Margin="10 10 10 10">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                    <StackPanel>
+                        <Border Background="Navy" Height="30">
+                            <TextBlock Foreground="White"  FontSize="15" Margin="10 2 0 0">Designation Details</TextBlock>
+                        </Border>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Designation Name" TextAlignment="Left" Width="200" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                            <TextBlock Text="Designation Descr" TextAlignment="Left" Width="200" />
+                            <TextBox Text="{Binding CharterAccountantModel.CaName}" Width="200" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="0 0 20 0">
+                    <Button Content="Save" Height="30" Width="60" HorizontalAlignment="Right"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+    </Border>
+</Window>

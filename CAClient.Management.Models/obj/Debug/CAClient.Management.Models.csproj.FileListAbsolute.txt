@@ -1,0 +1,5 @@
+F:\CaClientManagement\CA.Client.Management\CAClient.Management.Models\bin\Debug\CAClient.Management.Models.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Management.Models\bin\Debug\CAClient.Management.Models.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Management.Models\obj\Debug\CAClient.Management.Models.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Management.Models\obj\Debug\CAClient.Management.Models.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Management.Models\obj\Debug\CAClient.Management.Models.csprojResolveAssemblyReference.cache

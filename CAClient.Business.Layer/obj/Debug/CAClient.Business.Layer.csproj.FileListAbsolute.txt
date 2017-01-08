@@ -1,0 +1,14 @@
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.Business.Layer.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.Business.Layer.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.DataAccess.Layer.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.Management.Models.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.DataAccess.Layer.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\CAClient.Management.Models.pdb
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\obj\Debug\CAClient.Business.Layer.csprojResolveAssemblyReference.cache
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\obj\Debug\CAClient.Business.Layer.dll
+F:\CaClientManagement\CA.Client.Management\CAClient.Business.Layer\obj\Debug\CAClient.Business.Layer.pdb

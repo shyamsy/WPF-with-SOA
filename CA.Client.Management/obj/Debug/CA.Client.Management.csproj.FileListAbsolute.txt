@@ -1,0 +1,1 @@
+F:\CaClientManagement\CA.Client.Management\CA.Client.Management\bin\Debug\CA.Client.Management.exe.config

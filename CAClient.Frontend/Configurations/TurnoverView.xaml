@@ -1,0 +1,44 @@
+﻿<Window x:Class="CAClient.Frontend.Configurations.TurnoverView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Turnover Types" Height="400" Width="600" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style TargetType="TextBox" BasedOn="{StaticResource DefaultTextBoxStyle}" />
+        <Style TargetType="TextBlock" BasedOn="{StaticResource ControlLabelStyle}" />
+        <Style TargetType="Button" BasedOn="{StaticResource DefaultButtonStyle}" />
+    </Window.Resources>
+    <StackPanel>
+        <GroupBox Header="Turnover Types">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                    <TextBlock Text="Turnover Types" TextAlignment="Left" Width="100"/>
+                    <TextBox Text="{Binding TurnoverModel.TurnoverType}" Width="200" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="0 10 0 0">
+                    <Button Content="Save" Width="50" Command="{Binding SaveTurnoverCommand}"/>
+                </StackPanel>
+                <StackPanel Margin="0 10 0 0">
+                    <ListView Margin="5" Name="lstProducts" ItemsSource="{Binding TurnoverLists}" Height="200" ScrollViewer.HorizontalScrollBarVisibility="Auto" 
+                      ScrollViewer.VerticalScrollBarVisibility="Auto" 
+                     AlternationCount="2" >
+                        <ListView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Edit Turnover Type"/>
+                                <MenuItem Header="Delete Turnover Type"/>
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                        <ListView.View>
+                            <GridView>
+                                <GridView.Columns>
+                                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Path=Id}" Width="50"/>
+                                    <GridViewColumn Header="Turover Type" DisplayMemberBinding="{Binding Path=TurnoverType}" Width="100"/>
+                                    <GridViewColumn Header="Last Updated" DisplayMemberBinding="{Binding Path=LastUpdated}" Width="100"/>
+                                </GridView.Columns>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+    </StackPanel>
+</Window>
